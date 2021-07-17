@@ -6,9 +6,10 @@ require (
 	github.com/go-ping/ping v0.0.0-20210216210419-25d1413fb7bb
 	github.com/gobwas/ws v1.1.0
 	github.com/gorilla/mux v1.8.0
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/xtaci/smux v1.5.15
 	go.uber.org/atomic v1.7.0
 	go.uber.org/zap v1.16.0
+	golang.org/x/tools v0.0.0-20200103221440-774c71fcf114 // indirect
 )
