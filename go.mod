@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/getsentry/sentry-go v0.13.0
-	github.com/go-ping/ping v0.0.0-20210216210419-25d1413fb7bb
+	github.com/go-ping/ping v1.1.0
 	github.com/gobwas/ws v1.1.0
 	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/mux v1.8.0
@@ -41,6 +41,7 @@ require (
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/godbus/dbus v0.0.0-20190402143921-271e53dc4968 // indirect
 	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/google/uuid v1.2.0 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/hashicorp/go-envparse v0.0.0-20200406174449-d9cfd743a15e // indirect
 	github.com/hodgesds/perf-utils v0.4.0 // indirect
