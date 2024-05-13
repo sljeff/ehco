@@ -14,7 +14,7 @@ require (
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/xtaci/smux v1.5.16
 	github.com/xtls/xray-core v1.5.4
-	go.uber.org/atomic v1.10.0
+	go.uber.org/atomic v1.11.0
 	go.uber.org/zap v1.19.1
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8
 	google.golang.org/grpc v1.45.0
