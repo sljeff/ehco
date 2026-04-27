@@ -15,7 +15,7 @@ require (
 	github.com/xtaci/smux v1.5.16
 	github.com/xtls/xray-core v1.5.4
 	go.uber.org/atomic v1.10.0
-	go.uber.org/zap v1.19.1
+	go.uber.org/zap v1.27.1
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8
 	google.golang.org/grpc v1.45.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
@@ -74,7 +74,7 @@ require (
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e // indirect
 	github.com/xtls/go v0.0.0-20210920065950-d4af136d3672 // indirect
 	go.starlark.net v0.0.0-20220302181546-5411bad688d1 // indirect
-	go.uber.org/multierr v1.6.0 // indirect
+	go.uber.org/multierr v1.10.0 // indirect
 	golang.org/x/crypto v0.0.0-20220312131142-6068a2e6cfdc // indirect
 	golang.org/x/mod v0.5.1 // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
